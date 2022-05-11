@@ -4,7 +4,7 @@
     xmlns="sap.m"
     xmlns:mvc="sap.ui.core.mvc">
 
-    <Shell>
+    <Shell id="_IDGenShell1">
         <App
             id="app"
             busy="{appView>/busy}"
